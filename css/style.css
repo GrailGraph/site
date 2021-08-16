@@ -296,7 +296,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header {
-     background: #0c0f38;
+     background:#fff;
      width: 100%;
      padding: 40px 40px 40px 40px;
 }
@@ -310,7 +310,7 @@ button {
 }
 
 .banner_main {
-     background: #0c0f38;
+     background: #fff;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
