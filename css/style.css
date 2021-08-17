@@ -562,7 +562,7 @@ button {
 
 .bg {
      font-size: 16px;
-     background-color: #090808;
+     background-color: #a1a1a1;
      color: #fff;
      padding: 10px 0px;
      width: 100%;
@@ -575,7 +575,7 @@ button {
 }
 
 .bg:hover {
-     background: #8308eb;
+     background: #63a8dc;
      color: #fff;
 }
 
