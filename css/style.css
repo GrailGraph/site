@@ -135,7 +135,7 @@ a {
      text-decoration: none;
      outline: none !important;
 }
-
+/*--
 a,
 .btn {
      text-decoration: none !important;
@@ -146,7 +146,7 @@ a,
      -o-transition: all .3s ease-in-out;
      transition: all .3s ease-in-out;
 }
-
+--*/
 img {
      max-width: 100%;
      height: auto;
